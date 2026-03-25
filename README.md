@@ -51,31 +51,21 @@ open_to    : Collaborations & Learning opportunities
 
 ### 🎨 Frontend
 <div align="center">
-
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </div>
+
+<br/>
 
 ### ⚙️ Languages & Tools
 <div align="center">
-
-![C](https://skillicons.dev/icons?i=c)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Strapi](https://skillicons.dev/icons?i=strapi)
-
+  <img src="https://skillicons.dev/icons?i=c,git,github,figma,postman,strapi&theme=dark" />
 </div>
+
+<br/>
 
 ### 🎨 Design
 <div align="center">
-
-![Photoshop](https://skillicons.dev/icons?i=ps)
-![Canva](https://skillicons.dev/icons?i=canva)
-
+  <img src="https://skillicons.dev/icons?i=ps,canva&theme=dark" />
 </div>
 
 ---
@@ -106,7 +96,7 @@ open_to    : Collaborations & Learning opportunities
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyanshCG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=PriyanshCG&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
 
-<br/>
+<br/><br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshCG&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
 
