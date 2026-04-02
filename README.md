@@ -10,14 +10,11 @@
 
 <br/>
 
-
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
 ```yaml
 name       : Priyansh Patel
 learning_at: CODING GITA
@@ -25,7 +22,7 @@ currently  : Frontend + Backend + DSA
 interests  : [Coding, Cricket, Design]
 fun_fact   : "I think I am funny :)"
 open_to    : Collaborations & Learning opportunities
-```
+` ``
 
 ---
 
@@ -44,23 +41,31 @@ open_to    : Collaborations & Learning opportunities
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 <br/>
 
-### ⚙️ Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,git,github,figma,postman,strapi&theme=dark" />
-</div>
+### 🔧 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 
 <br/>
 
-### 🎨 Design
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,canva&theme=dark" />
+### 🖌️ Design
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+
+<br/>
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
+
+<br/>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
+
 </div>
 
 ---
@@ -79,31 +84,6 @@ open_to    : Collaborations & Learning opportunities
 | 🏗️ **Forterra** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web4) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-forterra-clone.netlify.app/) |
 | 💧 **Drop** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web5) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-drop-clone.netlify.app/) |
 | 🔷 **Polygon** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web6) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-polygon-clone.netlify.app/) |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyanshCG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=PriyanshCG&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshCG&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PriyanshCG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -150,3 +130,6 @@ open_to    : Collaborations & Learning opportunities
 **⭐ If you like my projects, consider giving them a star!**
 
 </div>
+```
+
+Removed the **📊 GitHub Stats** and **🏆 GitHub Trophies** sections. Everything else stays the same — just copy and paste this into your `README.md`! 🚀
