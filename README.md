@@ -10,12 +10,7 @@
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=PriyanshCG&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/PriyanshCG?tab=followers">
-  <img src="https://img.shields.io/github/followers/PriyanshCG?style=for-the-badge&color=blueviolet&labelColor=1a1a2e&label=FOLLOWERS" />
-</a>
+
 
 </div>
 
