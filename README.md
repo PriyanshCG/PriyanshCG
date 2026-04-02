@@ -15,6 +15,7 @@
 ---
 
 ## 🧑‍💻 About Me
+
 ```yaml
 name       : Priyansh Patel
 learning_at: CODING GITA
@@ -22,7 +23,7 @@ currently  : Frontend + Backend + DSA
 interests  : [Coding, Cricket, Design]
 fun_fact   : "I think I am funny :)"
 open_to    : Collaborations & Learning opportunities
-` ``
+```
 
 ---
 
@@ -97,21 +98,7 @@ open_to    : Collaborations & Learning opportunities
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyanshCG/PriyanshCG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriyanshCG/PriyanshCG/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PriyanshCG/PriyanshCG/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
@@ -130,6 +117,3 @@ open_to    : Collaborations & Learning opportunities
 **⭐ If you like my projects, consider giving them a star!**
 
 </div>
-```
-
-Removed the **📊 GitHub Stats** and **🏆 GitHub Trophies** sections. Everything else stays the same — just copy and paste this into your `README.md`! 🚀
