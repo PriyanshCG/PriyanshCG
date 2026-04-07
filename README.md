@@ -10,6 +10,8 @@
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=PriyanshCG&label=Visitors&color=blue&style=flat-square"/>
+
 </div>
 
 ---
@@ -71,24 +73,7 @@ open_to    : Collaborations & Learning opportunities
 
 ---
 
-## 🌐 Website Clones Showcase
 
-> 🖥️ A collection of pixel-perfect website clones built with HTML & CSS
-
-<div align="center">
-
-| 🏷️ Project | 💻 Code | 🚀 Live |
-|:----------:|:-------:|:-------:|
-| ⌚ **Chrono 24** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web1) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-chrono24-clone.netlify.app/) |
-| 🎮 **EA Sports** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web2) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-ea-sports-clone.netlify.app/) |
-| 🐍 **Razer** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/webb3) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-razer-clone.netlify.app/) |
-| 🏗️ **Forterra** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web4) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-forterra-clone.netlify.app/) |
-| 💧 **Drop** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web5) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-drop-clone.netlify.app/) |
-| 🔷 **Polygon** | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PriyanshCG/sem1-assignments/tree/main/CSS/website%20clone/web6) | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://pri-polygon-clone.netlify.app/) |
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
