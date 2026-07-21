@@ -1,101 +1,46 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priyansh%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20DSA%20Learner%20%7C%20Cricket%20Fan&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
+     panel. -->
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Priyansh+%F0%9F%91%8B;Learning+Frontend+%2B+Backend+%2B+DSA;Building+cool+stuff+at+CODING+GITA;Ask+me+about+Coding+%26+Cricket+%F0%9F%8F%8F" alt="Typing SVG" />
-</a>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<br/>
+<h3><code>PriyanshCG@github ~ $ ./contributions.sh</code></h3>
 
-<img src="https://komarev.com/ghpvc/?username=PriyanshCG&label=Visitors&color=blue&style=flat-square"/>
+<img src="./contrib-heatmap.svg" width="860" alt="Priyansh's GitHub contribution graph — auto-refreshed daily" />
 
-</div>
+<br>
+<br>
 
----
+<h3><code>PriyanshCG@github ~ $ whoami</code></h3>
 
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Priyansh Patel — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Priyansh Patel — experience, stack, highlights" /></td>
+</tr>
+</table>
 
-```yaml
-name       : Priyansh Patel
-learning_at: CODING GITA
-currently  : Frontend + Backend + DSA
-interests  : [Coding, Cricket, Design]
-fun_fact   : "I think I am funny :)"
-open_to    : Collaborations & Learning opportunities
-```
+<br>
+<br>
 
----
+<h3><code>PriyanshCG@github ~ $ ./links.sh</code></h3>
 
-## 🌐 Connect With Me
-
-<div align="center">
+<p><b>Frontend Developer · DSA Learner · Cricket Fan</b></p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshhh30)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@PriyanshPatel-d7i)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyansh30407@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyanshCG)
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br/>
-
-### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-<br/>
-
-### 🖌️ Design
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-
-<br/>
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
-
-<br/>
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" />
-
-</div>
-
----
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyanshCG&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-
+<br>
 
 ## ✍️ Dev Quote of the Day
 
-<div align="center">
-
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
