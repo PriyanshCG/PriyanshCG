@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=header" width="100%" alt="Header Banner" />
+
 <div align="center">
 
   
@@ -15,6 +17,18 @@
 
   <br />
 
+  <!-- Terminal whoami Card (ASCII Portrait & Neofetch Info) -->
+  <h3><code>PriyanshCG@github ~ $ whoami</code></h3>
+
+  <table>
+  <tr>
+  <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Priyansh Patel — ASCII portrait" /></td>
+  <td valign="top"><img src="./info-card.svg" width="490" alt="Priyansh Patel — experience, stack, highlights" /></td>
+  </tr>
+  </table>
+
+  <br />
+
   <!-- Animated Media Banner -->
   <img src="assets/output.gif" width="100%" alt="Header Banner" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
@@ -24,24 +38,13 @@
 
 ---
 
-## 📊 Live Interactive Terminal & Contribution Graph
+## 📊 Live Interactive Contribution Graph
 
 <div align="center">
 
   <h3><code>PriyanshCG@github ~ $ ./contributions.sh</code></h3>
 
   <img src="./contrib-heatmap.svg" width="860" alt="Priyansh's GitHub contribution graph — auto-refreshed daily" />
-
-  <br><br>
-
-  <h3><code>PriyanshCG@github ~ $ whoami</code></h3>
-
-  <table>
-  <tr>
-  <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Priyansh Patel — ASCII portrait" /></td>
-  <td valign="top"><img src="./info-card.svg" width="490" alt="Priyansh Patel — experience, stack, highlights" /></td>
-  </tr>
-  </table>
 
 </div>
 
