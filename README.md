@@ -54,7 +54,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 🔭 Currently Working On
 - ⚡ Building responsive web & mobile apps with **React & React Native**
@@ -66,14 +66,9 @@
 - 🎨 Crafting clean user interface designs in **Figma**
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" align="center" valign="middle">
 
-### 💼 Quick Highlights
-- 💼 **Role:** Frontend Developer | DSA Learner
-- 🎯 **Specialization:** React, React Native, JavaScript, Node.js & Express
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, React Native, Node.js, Express, MongoDB, C, C++, DSA
-- ⚡ **Fun Fact:** I think I am funny :)
-- 📫 **Contact:** Reach out via [Email](mailto:priyansh30407@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/priyansh-patel)
+  <img src="assets/developer_workspace.gif" width="100%" alt="Developer Workspace" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
 </td>
 </tr>
