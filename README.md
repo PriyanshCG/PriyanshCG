@@ -1,9 +1,6 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&height=50&lines=Hi+there!+I'm+Priyansh+Patel+👋;Frontend+Developer+%26+DSA+Learner;Building+Web+Apps+%26+Mobile+Interfaces" alt="Typing SVG Header" />
-  </a>
+  
 
   <h1>Hey there, I'm <a href="https://github.com/PriyanshCG">Priyansh Patel</a> 🚀</h1>
   <p><strong>Frontend Developer · DSA Learner · Cricket Fan</strong></p>
