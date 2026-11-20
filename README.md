@@ -38,15 +38,7 @@
 
 ---
 
-## 📊 Live Interactive Contribution Graph
 
-<div align="center">
-
-  <h3><code>PriyanshCG@github ~ $ ./contributions.sh</code></h3>
-
-  <img src="./contrib-heatmap.svg" width="860" alt="Priyansh's GitHub contribution graph — auto-refreshed daily" />
-
-</div>
 
 ---
 
